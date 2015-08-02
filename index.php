@@ -6,7 +6,7 @@
 	<script type="text/javascript" src="script.js"></script>
 </head>
 <body>
-	<div>This is a page.
+	<div>This is a page. test
 	</div>
 </body>
 </html>
